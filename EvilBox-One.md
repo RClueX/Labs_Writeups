@@ -56,11 +56,11 @@ GIve the read write permission  - chmod 600 id_rsa
 
 Now connect using ssh - using username 
 
+![connectssh png ‎- Photos](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/cac6c8f0-1f85-4f7c-9459-144ea29b3df8)
 
-![ssh](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/39fab814-4c56-495f-a86f-0e01723162a5)
 
  
-### Step 7:- 
+### Step 8:- 
  
 Type ls command and open the flag file
 
