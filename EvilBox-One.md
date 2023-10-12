@@ -52,12 +52,19 @@ I found that command allows the inclusion of local files of the target.
 GIve the read write permission  - chmod 600 id_rsa
 
 
-### Step 6:- 
+### Step 7:- 
 
 Now connect using ssh - using username 
 
-![1 REqUpz2PdjQVksBJ7nsDaw (2)](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/b4fe83ad-f33d-4305-a2d5-685b4d610b67)
 
+![ssh](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/39fab814-4c56-495f-a86f-0e01723162a5)
+
+ 
+### Step 7:- 
+ 
+Type ls command and open the flag file
+
+![ls command](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/95637627-f41e-4f81-8752-dc1bbb0f42d0)
 
 Boom.....................
 
