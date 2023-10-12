@@ -59,5 +59,5 @@ view the file using cat command.
 ![first flag](https://github.com/Jkrathod/CyberSploit1/assets/110445358/fe33907d-c7c5-46a8-84b0-25c6e911010f)
 
 
-Zkkkasssss ............ I got successfuly flag.
+Zkkkasssss ............ I successfuly found flag.
 
