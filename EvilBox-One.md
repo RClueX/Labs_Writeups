@@ -1,10 +1,10 @@
-## EvilBox-One
+## EvilBox-One 
 
 `192.168.181.212`
 
 ### Step 1 :-
 
-First Start enumeration of above given IP using nmap
+First Start enumeration of above given IP using nmap.
 
 ![nmap](https://github.com/Jkrathod/OffSec-Machines_Writeups/assets/110445358/8db5f781-3456-4248-bf80-c27ba9503519)
 
