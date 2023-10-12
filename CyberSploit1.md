@@ -6,7 +6,7 @@ OffSec Machine - CyberSploit1
 
 #### Step 1 : - 
 
-First scan the given IP using nmap 
+First scan the given IP using nmap .
 
 ![2023-10-03 15_59_11-nmap](https://github.com/Jkrathod/CyberSploit1/assets/110445358/af181026-aa1f-45b3-8379-f327855a09e5)
 
